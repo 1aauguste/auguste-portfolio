@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  max-width: 800px;
+  margin: 30px auto;
+  padding: 20px;
+  line-height: 1.5;
+}
+
+.button-row {
+  margin: 20px 0;
+}
+
+button {
+  margin: 5px;
+  padding: 10px 14px;
+  cursor: pointer;
+}
+
+#notes-section {
+  border: 1px solid #ccc;
+  padding: 15px;
+  margin-top: 20px;
+}
+
+.highlight {
+  background-color: yellow;
+  font-weight: bold;
+}
