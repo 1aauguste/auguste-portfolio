@@ -1,0 +1,24 @@
+{
+  "name": "jsb-u02-01-conditional-statements",
+  "version": "1.0.0",
+  "description": "JavaScript conditional statements practice with autograding",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "keywords": [
+    "javascript",
+    "conditionals",
+    "practice",
+    "github-classroom"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "jest": {
+    "testEnvironment": "node",
+    "verbose": true
+  }
+}
